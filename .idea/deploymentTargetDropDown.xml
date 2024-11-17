@@ -8,6 +8,9 @@
       <entry key="image-preview">
         <State />
       </entry>
+      <entry key="imagePreview">
+        <State />
+      </entry>
     </value>
   </component>
 </project>

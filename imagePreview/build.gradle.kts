@@ -50,6 +50,9 @@ dependencies {
     implementation(libs.androidx.activity.compose)
     implementation(platform(libs.androidx.compose.bom))
     implementation(libs.androidx.foundation.android)
+    implementation(libs.androidx.junit.ktx)
+    testImplementation("org.testng:testng:6.9.6")
+    androidTestImplementation("org.testng:testng:6.9.6")
     //  implementation(libs.androidx.material3)
 
 
