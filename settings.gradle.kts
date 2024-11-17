@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Library"
 include(":app")
-include(":image-preview")
+include(":imagePreview")
